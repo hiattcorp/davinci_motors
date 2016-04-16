@@ -18,7 +18,7 @@ feature 'Create Cars' do
   end
 
   feature 'Create Cars' do
-    scenario 'can create a car' do
+    scenario 'can create a second car' do
       visit '/'
 
       click_link 'New Car'
